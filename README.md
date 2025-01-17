@@ -1,0 +1,3 @@
+# JavaScript Null or Undefined Handling
+
+This repository demonstrates a common error in JavaScript: failing to explicitly handle `null` or `undefined` values.  The `bug.js` file shows code that does not account for these values, which can result in unexpected behavior or runtime errors. The `bugSolution.js` file illustrates the proper way to handle `null` and `undefined` values, making the code more robust and reliable.
